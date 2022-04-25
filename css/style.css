@@ -2076,9 +2076,9 @@ body.locked {
     height: 200px;
   }
 
-  .team {
-    padding-top: -60px;
-    margin-top: 60px;
+  .anchor {
+    padding-top: 80px;
+    margin-top: -60px;
   }
 
   .team__card-wrap {
@@ -2192,8 +2192,8 @@ body.locked {
   }
 
   .work {
-    padding-top: -60px;
-    margin-top: 60px;
+    padding-top: 60px;
+    margin-top: -60px;
   }
 
   .row1 {
@@ -2238,8 +2238,8 @@ body.locked {
   }
 
   .competence {
-    padding-top: -60px;
-    margin-top: 60px;
+    padding-top: 80px;
+    margin-top: -60px;
   }
 
   .competence__block {
@@ -2257,8 +2257,8 @@ body.locked {
   }
 
   .price {
-    padding: -60px;
-    margin: 60px;
+    padding-top: 60px;
+    margin-top: -60px;
   }
 
   .cash__right {
@@ -2420,5 +2420,9 @@ body.locked {
     width: 100%;
     height: 100%;
     max-height: 100%;
+  }
+
+  .modal-form__btn {
+    background-position-x: 90%;
   }
 }
